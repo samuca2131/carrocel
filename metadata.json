@@ -1,0 +1,8 @@
+{
+  "name": "SaaS Gerador de Carrosséis IA",
+  "description": "Plataforma avançada para geração automática, edição inteligente e exportação de carrosséis persuasivos para redes sociais utilizando IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
